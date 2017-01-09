@@ -4,7 +4,7 @@ As a user i want to enter number of items and  see number of  items returned bac
 
 As a user i want to know price per item multiplied times number of items and returned to screen.
 
-As a user i need to be able to select my state so that proper sales tax can be added and see total returned to screen. 
+As a user i need to be able to select UT so that proper sales tax of 6.85% can be added and see total returned to screen. 
 
 As a user i want to see my bulk discount of 3% if i spend 1000 dollars applied to total. 
 
